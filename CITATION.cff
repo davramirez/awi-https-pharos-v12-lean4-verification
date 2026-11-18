@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "If you use this public research model, please cite the AWI Research Lab technical report."
+title: "AWI → HTTPS (V11–V12) and Lighthouse V1.4 (G20): Public Boundary Models"
+type: software
+authors:
+  - family-names: "Ramirez"
+    given-names: "David"
+    affiliation: "AWI Research Lab"
+date-released: 2026-11-18
+url: "https://awiresearch.com/research/awi-https-v12-lighthouse-g20-dispatch/"
+keywords:
+  - Autonomous AI Security
+  - Lean 4
+  - Mathematical TEVV
+  - Small-World Networks
